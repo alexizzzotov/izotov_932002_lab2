@@ -1,0 +1,10 @@
+C:\Users\why_t\Downloads\932004.Khaustova.Laba2.Simulation-main\lab2_izotov\bin\Debug\lab2_izotov.exe.config
+C:\Users\why_t\Downloads\932004.Khaustova.Laba2.Simulation-main\lab2_izotov\bin\Debug\lab2_izotov.exe
+C:\Users\why_t\Downloads\932004.Khaustova.Laba2.Simulation-main\lab2_izotov\bin\Debug\lab2_izotov.pdb
+C:\Users\why_t\Downloads\932004.Khaustova.Laba2.Simulation-main\lab2_izotov\obj\Debug\lab2_izotov.csproj.AssemblyReference.cache
+C:\Users\why_t\Downloads\932004.Khaustova.Laba2.Simulation-main\lab2_izotov\obj\Debug\lab2.Form1.resources
+C:\Users\why_t\Downloads\932004.Khaustova.Laba2.Simulation-main\lab2_izotov\obj\Debug\lab2_izotov.Properties.Resources.resources
+C:\Users\why_t\Downloads\932004.Khaustova.Laba2.Simulation-main\lab2_izotov\obj\Debug\lab2_izotov.csproj.GenerateResource.cache
+C:\Users\why_t\Downloads\932004.Khaustova.Laba2.Simulation-main\lab2_izotov\obj\Debug\lab2_izotov.csproj.CoreCompileInputs.cache
+C:\Users\why_t\Downloads\932004.Khaustova.Laba2.Simulation-main\lab2_izotov\obj\Debug\lab2_izotov.exe
+C:\Users\why_t\Downloads\932004.Khaustova.Laba2.Simulation-main\lab2_izotov\obj\Debug\lab2_izotov.pdb
